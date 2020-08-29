@@ -1,0 +1,18 @@
+* {
+	box-sizing: border-box;
+    padding: 0;
+    outline: none;
+
+}
+html {
+    overflow-y: scroll;
+}
+
+
+body {
+    overflow-x: hidden;
+    background-image: url('../src/components/app/got.jpeg');
+    background-size: cover;
+    font-size: 16px;
+    height: 100%;
+}
