@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Приложение на React по мотивам сериала Игра Престолов. В приложении реализовано: API запрос на сайт, вывод рандомного героя (автоматически обновляется каждые 15 сек), вывод героев/домов/книг списком, любой компонет можно открыть для более подробной информации.
+
+![Imgur](https://i.imgur.com/YKkalVh.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
